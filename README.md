@@ -21,7 +21,9 @@ Use the script to process the WAD files.
    ```
 
 --league_dir: Path to your League of Legends directory.
+
 --output_folder: Path to the output folder, preferably the cslol mod's WAD folder.
+
 --target_region: Target region of your desired voice overs (e.g., "ja_JP" for Japanese).
+
 --new_region: New region to rename the voiceovers to (the one you want to have the setup in client for UI) (e.g., "en_us" for English).
--help for help
