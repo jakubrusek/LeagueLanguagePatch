@@ -12,7 +12,8 @@ LeagueLanguagePatch is a simple Python script designed to streamline the process
 2. Install Dependencies:
 Ensure you have Python installed. The script uses standard libraries, so no additional dependencies are required.
 3. Download cslol-manager https://github.com/LeagueToolkit/cslol-manager/releases/latest and create an empty mod
-4. Run the Language Patch:
+4. Before running the script make sure to have set up your client to your desired voice over language for example Japanese, and ensure it fully patched.
+5. Run the Language Patch:
 Use the script to process the WAD files.
 
    ```bash
